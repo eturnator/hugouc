@@ -1,0 +1,5 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'Ece Amanda Bashie Blah'
+theme = 'paper'
+description = "Eces attempt to hugo with Bashie"
