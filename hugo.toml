@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://eturnator.github.io/hugouc/'
 languageCode = 'en-us'
 title = 'Ece Amanda Bashie Blah'
 theme = 'paper'
